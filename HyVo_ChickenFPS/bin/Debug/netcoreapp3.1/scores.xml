@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>18</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>16</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>11</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>8</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>8</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>8</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>6</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>5</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 2</PlayerName>
+    <Value>5</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>4</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>3</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>3</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>3</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>2</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>2</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>1</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>1</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 2</PlayerName>
+    <Value>0</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>0</Value>
+  </Score>
+  <Score>
+    <PlayerName>Player 1</PlayerName>
+    <Value>0</Value>
+  </Score>
+</ArrayOfScore>

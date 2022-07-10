@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Background/MainMenu.jpg</File>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Background/MainMenu_480.jpg</File>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Background/Space.jpeg</File>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Battle Music.mp3</File>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Bullet.png</File>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Button.png</File>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Chicken Invaders 4 Full OBS.mp3</File>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Explosion.png</File>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Font.spritefont</File>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/pngwing.com.png</File>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Ships/BlueChicken.png</File>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Ships/CalorieGuy.png</File>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Ships/RedChicken.png</File>
+    <File>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Small Explosion.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

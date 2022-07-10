@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Battle Music.mp3</SourceFile>
+  <SourceTime>2022-05-02T18:20:41.0236246-04:00</SourceTime>
+  <DestFile>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/bin/DesktopGL/Content/Battle Music.xnb</DestFile>
+  <DestTime>2022-05-02T18:21:46.5253423-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T12:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/bin/DesktopGL/Content/Battle Music.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

@@ -1,0 +1,78 @@
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\HyVo_ChickenFPS.exe
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\HyVo_ChickenFPS.deps.json
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\HyVo_ChickenFPS.runtimeconfig.json
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\HyVo_ChickenFPS.runtimeconfig.dev.json
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\HyVo_ChickenFPS.dll
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\HyVo_ChickenFPS.pdb
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.AssemblyInfoInputs.cache
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.AssemblyInfo.cs
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.csproj.CoreCompileInputs.cache
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.csproj.CopyComplete
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.dll
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.pdb
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.genruntimeconfig.cache
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Fonts\File.xnb
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Background\Space.xnb
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Button.xnb
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Font.xnb
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Background\MainMenu.xnb
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Bullet.xnb
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Ships\BlueChicken.xnb
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Ships\CalorieGuy.xnb
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Ships\RedChicken.xnb
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Explosion.xnb
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\pngwing.com.xnb
+C:\Users\vogia\Desktop\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.csproj.AssemblyReference.cache
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Fonts\File.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Background\MainMenu.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Background\Space.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Bullet.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Button.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Chicken Invaders 4 Full OBS.ogg
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Chicken Invaders 4 Full OBS.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Explosion.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Font.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\pngwing.com.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Ships\BlueChicken.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Ships\CalorieGuy.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Ships\RedChicken.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\HyVo_ChickenFPS.exe
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\HyVo_ChickenFPS.deps.json
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\HyVo_ChickenFPS.runtimeconfig.json
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\HyVo_ChickenFPS.runtimeconfig.dev.json
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\HyVo_ChickenFPS.dll
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\HyVo_ChickenFPS.pdb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.csproj.AssemblyReference.cache
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.AssemblyInfoInputs.cache
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.AssemblyInfo.cs
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.csproj.CoreCompileInputs.cache
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.csproj.CopyComplete
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.dll
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.pdb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\obj\Debug\netcoreapp3.1\HyVo_ChickenFPS.genruntimeconfig.cache
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Battle Music.ogg
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Battle Music.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Background\MainMenu_480.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Small Explosion.mp4
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Small Explosion.xnb
+C:\Hy_term4_mobile_projects\HyVo_ChickenFPS\HyVo_ChickenFPS\bin\Debug\netcoreapp3.1\Content\Small Explosion.ogg
