@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/Background/MainMenu.jpg</SourceFile>
+  <SourceFile>C:/Users/vogia/OneDrive/Documents/GitHub/ChickenFPS/HyVo_ChickenFPS/Content/Background/MainMenu.jpg</SourceFile>
   <SourceTime>2022-04-19T19:51:02.7460907-04:00</SourceTime>
-  <DestFile>C:/Hy_term4_mobile_projects/HyVo_ChickenFPS/HyVo_ChickenFPS/Content/bin/DesktopGL/Content/Background/MainMenu.xnb</DestFile>
-  <DestTime>2022-04-23T16:36:51.1348291-04:00</DestTime>
+  <DestFile>C:/Users/vogia/OneDrive/Documents/GitHub/ChickenFPS/HyVo_ChickenFPS/Content/bin/DesktopGL/Content/Background/MainMenu.xnb</DestFile>
+  <DestTime>2022-07-10T18:04:24.998634-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Hy_term4_mobile_projects\\HyVo_ChickenFPS\\HyVo_ChickenFPS\\HyVo_ChickenFPS.csproj": {}
+    "C:\\Users\\vogia\\OneDrive\\Documents\\GitHub\\ChickenFPS\\HyVo_ChickenFPS\\HyVo_ChickenFPS.csproj": {}
   },
   "projects": {
-    "C:\\Hy_term4_mobile_projects\\HyVo_ChickenFPS\\HyVo_ChickenFPS\\HyVo_ChickenFPS.csproj": {
+    "C:\\Users\\vogia\\OneDrive\\Documents\\GitHub\\ChickenFPS\\HyVo_ChickenFPS\\HyVo_ChickenFPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hy_term4_mobile_projects\\HyVo_ChickenFPS\\HyVo_ChickenFPS\\HyVo_ChickenFPS.csproj",
+        "projectUniqueName": "C:\\Users\\vogia\\OneDrive\\Documents\\GitHub\\ChickenFPS\\HyVo_ChickenFPS\\HyVo_ChickenFPS.csproj",
         "projectName": "HyVo_ChickenFPS",
-        "projectPath": "C:\\Hy_term4_mobile_projects\\HyVo_ChickenFPS\\HyVo_ChickenFPS\\HyVo_ChickenFPS.csproj",
+        "projectPath": "C:\\Users\\vogia\\OneDrive\\Documents\\GitHub\\ChickenFPS\\HyVo_ChickenFPS\\HyVo_ChickenFPS.csproj",
         "packagesPath": "C:\\Users\\vogia\\.nuget\\packages\\",
-        "outputPath": "C:\\Hy_term4_mobile_projects\\HyVo_ChickenFPS\\HyVo_ChickenFPS\\obj\\",
+        "outputPath": "C:\\Users\\vogia\\OneDrive\\Documents\\GitHub\\ChickenFPS\\HyVo_ChickenFPS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
