@@ -12,10 +12,14 @@
       "MonoGame.Framework.DesktopGL/3.8.0.1641": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/MonoGame.Framework.dll": {}
+          "lib/netstandard2.0/MonoGame.Framework.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/MonoGame.Framework.dll": {}
+          "lib/netstandard2.0/MonoGame.Framework.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "build/MonoGame.Framework.DesktopGL.targets": {}
@@ -180,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vogia\\OneDrive\\Documents\\GitHub\\ChickenFPS\\HyVo_ChickenFPS\\HyVo_ChickenFPS.csproj",
+      "projectUniqueName": "C:\\Users\\vogia\\Documents\\GitHub\\ChickenFPS\\HyVo_ChickenFPS\\HyVo_ChickenFPS.csproj",
       "projectName": "HyVo_ChickenFPS",
-      "projectPath": "C:\\Users\\vogia\\OneDrive\\Documents\\GitHub\\ChickenFPS\\HyVo_ChickenFPS\\HyVo_ChickenFPS.csproj",
+      "projectPath": "C:\\Users\\vogia\\Documents\\GitHub\\ChickenFPS\\HyVo_ChickenFPS\\HyVo_ChickenFPS.csproj",
       "packagesPath": "C:\\Users\\vogia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vogia\\OneDrive\\Documents\\GitHub\\ChickenFPS\\HyVo_ChickenFPS\\obj\\",
+      "outputPath": "C:\\Users\\vogia\\Documents\\GitHub\\ChickenFPS\\HyVo_ChickenFPS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -199,6 +203,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -232,7 +237,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -241,7 +247,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

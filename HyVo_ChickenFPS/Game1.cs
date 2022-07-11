@@ -14,8 +14,8 @@ namespace HyVo_ChickenFPS
 
         public static Random Random;
 
-        public static int ScreenWidth = 720;
-        public static int ScreenHeight = 480;
+        public static int ScreenWidth = 1366;
+        public static int ScreenHeight = 768;
 
         private State currentState;
         private State nextState;

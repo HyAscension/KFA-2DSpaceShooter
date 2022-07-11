@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/vogia/OneDrive/Documents/GitHub/ChickenFPS/HyVo_ChickenFPS/Content/Battle Music.mp3</SourceFile>
-  <SourceTime>2022-05-02T18:20:41.0236246-04:00</SourceTime>
-  <DestFile>C:/Users/vogia/OneDrive/Documents/GitHub/ChickenFPS/HyVo_ChickenFPS/Content/bin/DesktopGL/Content/Battle Music.xnb</DestFile>
-  <DestTime>2022-07-10T18:04:28.632054-04:00</DestTime>
+  <SourceFile>C:/Users/vogia/Documents/GitHub/ChickenFPS/HyVo_ChickenFPS/Content/Battle Music.mp3</SourceFile>
+  <SourceTime>2023-05-28T18:25:55.5692203-04:00</SourceTime>
+  <DestFile>C:/Users/vogia/Documents/GitHub/ChickenFPS/HyVo_ChickenFPS/Content/bin/DesktopGL/Content/Battle Music.xnb</DestFile>
+  <DestTime>2023-05-28T18:36:59.2014299-04:00</DestTime>
   <Importer>Mp3Importer</Importer>
   <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
   <Processor>SongProcessor</Processor>
@@ -15,6 +15,6 @@
   <Dependencies />
   <BuildAsset />
   <BuildOutput>
-    <string>C:/Users/vogia/OneDrive/Documents/GitHub/ChickenFPS/HyVo_ChickenFPS/Content/bin/DesktopGL/Content/Battle Music.ogg</string>
+    <string>C:/Users/vogia/Documents/GitHub/ChickenFPS/HyVo_ChickenFPS/Content/bin/DesktopGL/Content/Battle Music.ogg</string>
   </BuildOutput>
 </PipelineBuildEvent>

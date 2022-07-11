@@ -24,15 +24,15 @@ namespace HyVo_ChickenFPS.States
             Texture2D buttonTexture = content.Load<Texture2D>("Button");
             SpriteFont buttonFont = content.Load<SpriteFont>("Font");
 
-            Texture2D backgroundImage = content.Load<Texture2D>("Background/MainMenu_480");
+            Texture2D backgroundImage = content.Load<Texture2D>("Background/MainMenu");
 
 
             int[] heightPosition = new int[4];
 
-            heightPosition[0] = 275;
-            heightPosition[1] = 325;
-            heightPosition[2] = 375;
-            heightPosition[3] = 425;
+            heightPosition[0] = 400;
+            heightPosition[1] = 450;
+            heightPosition[2] = 500;
+            heightPosition[3] = 550;
 
             components = new List<Component>()
             {
